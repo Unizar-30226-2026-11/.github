@@ -7,7 +7,7 @@
 ## 👥 Equipo de Desarrollo
 
 ### Frontend (Web)
-- **Desarrollador 1** - [@usuario1](https://github.com/usuario1)
+- **Desarrollador 1** - [@EduSS282](https://github.com/EduSS282)
 - **Desarrollador 2** - [@usuario2](https://github.com/usuario2)
 
 ### Mobile
