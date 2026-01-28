@@ -16,7 +16,7 @@
 - **Desarrollador 5** - [@usuario5](https://github.com/usuario5)
 
 ### Backend
-- **Desarrollador 6** - [@usuario6](https://github.com/usuario6)
+- **Desarrollador 6** - [@FSPPX](https://github.com/FSPPX)
 - **Desarrollador 7** - [@usuario7](https://github.com/usuario7)
 - **Desarrollador 8** - [@usuario8](https://github.com/usuario8)
 
