@@ -17,7 +17,7 @@
 
 ### Backend
 - **Desarrollador 6** - [@FSPPX](https://github.com/FSPPX)
-- **Desarrollador 7** - [@usuario7](https://github.com/usuario7)
+- **Desarrollador 7** - [@usuario7](https://github.com/Azzal-e)
 - **Desarrollador 8** - [@usuario8](https://github.com/usuario8)
 
 ## 🏗️ Estructura del Proyecto
