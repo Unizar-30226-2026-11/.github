@@ -13,11 +13,11 @@
 ### Mobile
 - **Desarrollador 3** - [@usuario3](https://github.com/usuario3)
 - **Desarrollador 4** - [@usuario4](https://github.com/usuario4)
-- **Desarrollador 5** - [@usuario5](https://github.com/usuario5)
 
 ### Backend
-- **Desarrollador 6** - [@FSPPX](https://github.com/FSPPX)
-- **Desarrollador 7** - [@Azzal-e](https://github.com/Azzal-e)
+- **Violeta Veras** - [@FSPPX](https://github.com/FSPPX)
+- **Desarrollador 6** - [@Azzal-e](https://github.com/Azzal-e)
+- **Desarrollador 7** - [@usuario7](https://github.com/usuario5)
 - **Desarrollador 8** - [@usuario8](https://github.com/usuario8)
 
 ## 🏗️ Estructura del Proyecto
