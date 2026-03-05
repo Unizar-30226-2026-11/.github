@@ -17,7 +17,7 @@
 ### Backend
 - **Violeta Veras** - [@FSPPX](https://github.com/FSPPX)
 - **Desarrollador 6** - [@Azzal-e](https://github.com/Azzal-e)
-- **Desarrollador 7** - [@usuario7](https://github.com/usuario5)
+- **Hugo López Navarro** - [@hachelpez13](https://github.com/hachelpez13)
 - **Desarrollador 8** - [@usuario8](https://github.com/usuario8)
 
 ## 🏗️ Estructura del Proyecto
