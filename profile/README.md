@@ -7,18 +7,18 @@
 ## 👥 Equipo de Desarrollo
 
 ### Frontend (Web)
-- **Desarrollador 1** - [@EduSS282](https://github.com/EduSS282)
-- **Desarrollador 2** - [@usuario2](https://github.com/usuario2)
+- **Eduardo Sánchez** - [@EduSS282](https://github.com/EduSS282)
+- **Samuel Gallego** - [@SamuGallego](https://github.com/SamuGallego)
 
 ### Mobile
-- **Desarrollador 3** - [@usuario3](https://github.com/usuario3)
-- **Desarrollador 4** - [@usuario4](https://github.com/usuario4)
+- **Sergio Guerra** - [@868307](https://github.com/868307)
+- **Mohamed Rayen** - [@RayanUnizar](https://github.com/RayanUnizar)
 
 ### Backend
 - **Violeta Veras** - [@FSPPX](https://github.com/FSPPX)
-- **Desarrollador 6** - [@Azzal-e](https://github.com/Azzal-e)
+- **Athanasios Usero** - [@Azzal-e](https://github.com/Azzal-e)
 - **Hugo López Navarro** - [@hachelpez13](https://github.com/hachelpez13)
-- **Desarrollador 8** - [@usuario8](https://github.com/usuario8)
+- **Elías Zabaleta** - [@EliZaba-dev](https://github.com/EliZaba-dev)
 
 ## 🏗️ Estructura del Proyecto
 
