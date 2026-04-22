@@ -9,7 +9,7 @@
 
 ## Misión
 
- crea experiencias de juego digitales innovadoras, accesibles y colaborativas, uniendo diseño, tecnología y trabajo en equipo para ofrecer una plataforma sólida e intuitiva en tiempo real.
+ KeyStudios crea experiencias de juego digitales innovadoras, accesibles y colaborativas, uniendo diseño, tecnología y trabajo en equipo para ofrecer una plataforma sólida e intuitiva en tiempo real.
 
 <p align="center">
 	<img
